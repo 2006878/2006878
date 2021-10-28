@@ -1,5 +1,7 @@
 ## Tairone Leandro do Amaral
- <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+ <div>
+  <img align="center" alt="Tairone-dev" height="250em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+ </div>
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Data Science
 
@@ -15,7 +17,7 @@
   <img align="center" alt="Tairone-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tairone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tairone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+ </div>
   
   ##
  
