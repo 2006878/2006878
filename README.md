@@ -28,7 +28,11 @@
 <div> 
   
   <a href = "mailto:2006878@aluno.univesp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tairone-leandro-do-amaral-525899202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   
+  <a href = "https://www.linkedin.com/in/tairone-amaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tairone-amaral" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/tairone-amaral?trk=profile-badge">Tairone Leandro do Amaral</a>
+</div>
+
+              
