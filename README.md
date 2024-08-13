@@ -5,8 +5,8 @@
  </div>
  <br>
 
-- 🔭 I'm working with Data Science, Web Development, BackEnd Development, and API documentation.
-- 🌱 I’m currently learning Data Science.
+- 🔭 I'm working with Data Science, Web Development, BackEnd Development, and API REST Specialist.
+- 🌱 I am currently studying postgraduate studies in Software engineering.
 <br>
 <br>
 <!--  
