@@ -6,7 +6,7 @@
  <br>
 
 - 🔭 I'm working with Data Science, Web Development, BackEnd Development, and API REST Specialist.
-- 🌱 I am currently studying postgraduate studies in Software engineering.
+- 🌱 Postgraduate in Software Engineering.
 <br>
 <br>
 <!--  
